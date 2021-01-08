@@ -60,8 +60,7 @@ text {
 	cursor: pointer;
 }
 body {
-	background: url(https://virtualbg-brandstudio.netdna-ssl.com/wp-content/uploads/2020/06/price-is-right.jpg)
-		no-repeat;
+	background: url(./price-is-right.jpg) no-repeat;
 	background-size: 100% 100%;
 	text-align: center;
 }
